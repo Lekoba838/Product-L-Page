@@ -4,7 +4,7 @@
 
 **Screenshot**
 
-![ScreenShot](picture/screenshot.png)
+![ScreenShot](picture/Screenshot.png)
 
 [live demo](https://raw.githack.com/Lekoba838/Product-L-Page/gh-pages/index.html)
 
